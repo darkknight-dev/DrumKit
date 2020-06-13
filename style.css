@@ -18,6 +18,7 @@ background-size: cover;
     align-items: center;
     justify-content: center;
     min-height: 100vh;
+    flex-wrap: wrap;
 }
 
 .key{
